@@ -1,4 +1,4 @@
-![JustTCG Logo]([URL_TO_YOUR_HOSTED_LOGO_PNG])
+![JustTCG Logo](https://github.com/justtcg/.github/blob/main/JustTCG.png)
 
 # Welcome to the JustTCG GitHub!
 
