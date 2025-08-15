@@ -28,6 +28,11 @@ A step-by-step tutorial project demonstrating how to build a powerful TCG search
 
 -----
 
+#### 🔐 [nextjs-tcg-search-tutorial](https://github.com/JustTCG/nextjs-tcg-search-tutorial)
+An advanced, production-ready follow-up to our first tutorial. Learn how to securely fetch data using Next.js 15 Server Components, ensuring your API keys are never exposed to the client.
+
+-----
+
 *(This section will be updated as we add more flagship example repositories.)*
 
 ### 🚀 Getting Started with the JustTCG API
@@ -36,7 +41,9 @@ Ready to build? Here’s how to get started in three easy steps:
 
 1.  **Get Your Free API Key:** [**Sign up on the JustTCG Dashboard**](https://justtcg.com/dashboard) to get your key instantly. Our free tier is generous, giving you plenty of room to experiment.
 2.  **Read the Docs:** [**Explore the API Reference**](https://justtcg.com/docs) to see all available endpoints and parameters.
-3.  **Explore an Example:** Clone our [**`tcg-search-tutorial`**](https://github.com/JustTCG/tcg-search-tutorial) to make your first API call in minutes.
+3.  **Explore an Example:**
+    - For Beginners: Clone our [`tcg-search-tutorial`](https://github.com/JustTCG/tcg-search-tutorial) to make your first API call in minutes with vanilla JavaScript.
+    - For Production Apps: Clone our [`nextjs-tcg-search-tutorial`](https://github.com/JustTCG/nextjs-tcg-search-tutorial) to learn the best practices for securely fetching data with Next.js.
 
 ### Our Philosophy
 
